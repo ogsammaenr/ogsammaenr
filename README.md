@@ -23,17 +23,19 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ogsammaenr&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ogsammaenr&theme=tokyonight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ogsammaenr&show_icons=true&theme=tokyonight"/>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ogsammaenr&theme=tokyonight"/>
 </p>
 
 ## 🚀 Projects
 - 🚧 Coming Soon...
 
----
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogsammaenr/ogsammaenr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogsammaenr/ogsammaenr/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ogsammaenr/ogsammaenr/output/pacman-contribution-graph.svg">
 </picture>
+
+###
