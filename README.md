@@ -30,8 +30,8 @@
 ## 🚀 Projects
 - 🚧 Coming Soon...
 
+---
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogsammaenr/ogsammaenr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogsammaenr/ogsammaenr/output/pacman-contribution-graph.svg">
@@ -39,3 +39,4 @@
 </picture>
 
 ###
+---
